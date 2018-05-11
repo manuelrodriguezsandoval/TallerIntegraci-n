@@ -3,24 +3,24 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TallerIntegracion", "TallerIntegracion\", "{86989DF3-57BF-49D0-B0A6-D0E4A8BB4836}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Biblioteca", "Biblioteca\", "{FB950DD6-CB39-4CDD-A9E2-39D23B78B4D3}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
-		Debug.AspNetCompiler.VirtualPath = "/localhost_64569"
-		Debug.AspNetCompiler.PhysicalPath = "TallerIntegracion\"
-		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64569\"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_57674"
+		Debug.AspNetCompiler.PhysicalPath = "Biblioteca\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_57674\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
-		Release.AspNetCompiler.VirtualPath = "/localhost_64569"
-		Release.AspNetCompiler.PhysicalPath = "TallerIntegracion\"
-		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64569\"
+		Release.AspNetCompiler.VirtualPath = "/localhost_57674"
+		Release.AspNetCompiler.PhysicalPath = "Biblioteca\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_57674\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
-		VWDPort = "64569"
+		VWDPort = "57674"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -29,13 +29,13 @@ Global
 		Debug|Any CPU = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{86989DF3-57BF-49D0-B0A6-D0E4A8BB4836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{86989DF3-57BF-49D0-B0A6-D0E4A8BB4836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB950DD6-CB39-4CDD-A9E2-39D23B78B4D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB950DD6-CB39-4CDD-A9E2-39D23B78B4D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {5083370E-8F41-4E42-BDA4-04E2331BEC7C}
+		SolutionGuid = {E66FBF7F-B8F6-4E94-956A-88CDD16F4226}
 	EndGlobalSection
 EndGlobal
